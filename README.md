@@ -54,5 +54,18 @@ Total Time programming | 2:55:13
 Total Lines of Code | N/A
 
 
+### Day 5
+
+ The fifth day, I watched a few tutorials going over syntax and referencing properties and created a cool little dice game on the way. It was pretty cool and I hope to finish the playlist with an understanding of Lua.
+ 
+ ![](https://github.com/ZOMBIE0530/Images/blob/main/RobloxScreenShot20201126_120616485.png)
+ 
+  Title | Data
+------------ | -------------
+Time programming Today | 0:57.48
+Lines of Code Today | N/A
+Total Time programming | 3:53:1
+Total Lines of Code | N/A
+
  
  
