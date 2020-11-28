@@ -13,4 +13,4 @@ Lines of Code Today | 2
 Total Time programming | 1:00:00
 Total Lines of Code | 2
 
-# Scripts won't be uploaded anymore because they aren't useful and are just copied examples from the tutorials.
+# Scripts won't be uploaded anymore because they aren't useful and are just copied examples from the tutorials or just small bits of code that do extremely basic things like changing the color of a part of referencing other properties.
