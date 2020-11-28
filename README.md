@@ -42,7 +42,7 @@ Total Lines of Code | 2
 
 ### Day 4
 
- The fourth day, I finished the second tutorial on making a game and decided to stop recording after the first hour to not take up space on my harddrive. All I did when I stopped recording was watching more tutorials but I kept track of the time.
+ The fourth day, I finished the second tutorial on making a game and decided to stop recording after the first hour to not take up space on my hardrive. All I did when I stopped recording was watching more tutorials but I kept track of the time.
  
  ![](https://github.com/ZOMBIE0530/Images/blob/main/RobloxScreenShot20201125_103334038.png)
  
@@ -65,6 +65,19 @@ Total Lines of Code | N/A
 Time programming Today | 0:57.48
 Lines of Code Today | N/A
 Total Time programming | 3:53:1
+Total Lines of Code | N/A
+
+### Day 6
+
+ The sixth day, I decided to sort of binge about 3 tutorials and stopped half way on the third. A general overview of what I learned included "Instance.new," and functions, maybe even varialbes I think.
+ 
+ ![](https://github.com/ZOMBIE0530/Images/blob/main/RobloxScreenShot20201127_222430034.png)
+ 
+  Title | Data
+------------ | -------------
+Time programming Today | 1:04.58
+Lines of Code Today | N/A
+Total Time programming | 4:57:59
 Total Lines of Code | N/A
 
  
