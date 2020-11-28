@@ -80,5 +80,19 @@ Lines of Code Today | N/A
 Total Time programming | 4:57:59
 Total Lines of Code | N/A
 
+### Day 7
+
+ The seventh day, I watched about 2 tutorials that went over parameters and arguements. I will be honest with you; it was confusing at first. With a little bit of practice though, I got the hang of it pretty easily.
+ 
+ ![](https://github.com/ZOMBIE0530/Images/blob/main/RobloxScreenShot20201128_000223844.png)
+ 
+  Title | Data
+------------ | -------------
+Time programming Today | 0:58.23
+Lines of Code Today | N/A
+Total Time programming | 5:56.22
+Total Lines of Code | N/A
+
+
  
  
