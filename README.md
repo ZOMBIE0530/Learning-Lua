@@ -93,6 +93,19 @@ Lines of Code Today | N/A
 Total Time programming | 5:56.22
 Total Lines of Code | N/A
 
+### Day 8
+
+ The eighth day, I watched about one tutorial and tried to rap my head around returning data between functions. I tried to mess around to get a better understanding, but I was still a little bit confused around the whole concept.
+ 
+ ![](https://github.com/ZOMBIE0530/Images/blob/main/RobloxScreenShot20201129_131436026.png)
+ 
+  Title | Data
+------------ | -------------
+Time programming Today | 0:41.40
+Lines of Code Today | N/A
+Total Time programming | 6:38.2
+Total Lines of Code | N/A
+
 
  
  
