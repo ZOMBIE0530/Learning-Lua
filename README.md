@@ -106,6 +106,19 @@ Lines of Code Today | N/A
 Total Time programming | 6:38.2
 Total Lines of Code | N/A
 
+### Day 9
+
+The ninth day, I watched one tutorial that went over built in functions in the roblox API. I found the functions useful and good to know for the future. I was planning on watching a second tutorial but the other one was an hour long compared to the other tutorials in the playlist that are 10 to 20 minutes long.
+
+![](https://github.com/ZOMBIE0530/Images/blob/main/RobloxScreenShot20201130_181911122.png)
+
+ Title | Data
+------------ | -------------
+Time programming Today | 0:55.32
+Lines of Code Today | N/A
+Total Time programming | 7:34.4
+Total Lines of Code | N/A
+
 
  
  
