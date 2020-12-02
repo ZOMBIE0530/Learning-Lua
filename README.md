@@ -119,6 +119,34 @@ Lines of Code Today | N/A
 Total Time programming | 7:34.4
 Total Lines of Code | N/A
 
+### Day 10
 
+ The tenth day, I started watching the hour long tutorial series. It went very in depth for the time I watched it. I learned how to do basic events within the first 30 minutes of the video.
+ 
+ ![](https://github.com/ZOMBIE0530/Images/blob/main/RobloxScreenShot20201201_222303073.png)
+ 
+ Title | Data
+------------ | -------------
+Time programming Today | 0:30.00
+Lines of Code Today | N/A
+Total Time programming | 8:04.4
+Total Lines of Code | N/A
+
+### Day 11
+
+ The eleventh day, I watched almost all of the hour long video and figured out how to do a common gag. Which is making a player slip when you touch a certain object. An example would be a banana peel.
+ 
+![](https://github.com/ZOMBIE0530/Images/blob/main/RobloxScreenShot20201201_221742341.png)
+
+Title | Data
+------------ | -------------
+Time programming Today | 0:51.57
+Lines of Code Today | N/A
+Total Time programming | 8:56.11
+Total Lines of Code | N/A
+
+
+
+ 
  
  
