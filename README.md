@@ -150,6 +150,7 @@ Total Lines of Code | N/A
 
  The twelfth day, I finished the hour long video. Then I started to get into the if statements. During the way, I added a day and night cycle just for learning purposes and fun. The script will be available.
  
+ ![](https://github.com/ZOMBIE0530/Images/blob/main/RobloxScreenShot20201203_235938524.png)
  
  Title | Data
 ------------ | -------------
