@@ -146,7 +146,20 @@ Total Time programming | 8:56.11
 Total Lines of Code | N/A
 
 
+### Day 12
 
+ The twelfth day, I finished the hour long video. Then I started to get into the if statements. During the way, I added a day and night cycle just for learning purposes and fun. The script will be available.
+ 
+ 
+ Title | Data
+------------ | -------------
+Time programming Today | 0:43.38
+Lines of Code Today | N/A
+Total Time programming | 9:39.49
+Total Lines of Code | N/A
+
+
+ 
  
  
  
