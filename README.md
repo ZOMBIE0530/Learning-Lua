@@ -160,6 +160,21 @@ Total Time programming | 9:39.49
 Total Lines of Code | N/A
 
 
+
+### Day 13
+
+ The thirteenth day, I decided to watch the next video in the playlist consisting of if statements and the other was based on embedded if statements and stuff. I really liked it and hope to learn more.
+ 
+ ![](https://github.com/ZOMBIE0530/Images/blob/main/RobloxScreenShot20201205_010637511.png)
+ 
+  Title | Data
+------------ | -------------
+Time programming Today | 0:33.28
+Lines of Code Today | N/A
+Total Time programming | 10:13.17
+Total Lines of Code | N/A
+ 
+ 
  
  
  
